@@ -1,0 +1,41 @@
+.jumbotron {
+  background-color: #b2b1b1;
+  font-family: "Times New Roman", Times, serif;
+  padding: 3rem;
+  padding-top: 100px;
+}
+
+body {
+  min-height: 2000px;
+}
+
+#about {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  padding-top: 120px;
+}
+
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#project {
+  background-color: #b2b1b1;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 90px;
+}
+
+#footer {
+  background-color: #b2b1b1;
+  height: 100px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#form {
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 110px;
+}
